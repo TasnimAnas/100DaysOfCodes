@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: azure;
+}
+#main-heading,
+#myName {
+  text-align: center;
+  margin: 8px;
+}
+.container {
+  width: 90%;
+  margin: auto;
+  background-color: bisque;
+  padding: 30px;
+  border: 1px solid black;
+  overflow: auto;
+}
+.Day {
+  text-align: center;
+}
+h4 {
+  margin-bottom: 5px;
+}
