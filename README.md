@@ -1,11 +1,3 @@
 # 100DaysOfCodes
 
-<html>
-            <body>
-<iframe src=
-"https://ide.geeksforgeeks.org/index.php" 
-            height="200" 
-            width="400">
-          
-    </iframe>
-            </body></html>
+<a href="https://tasnimanas.github.io/100DaysOfCodes/" target="_blank">Daily Logs</a>
