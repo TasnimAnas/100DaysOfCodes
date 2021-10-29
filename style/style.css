@@ -12,6 +12,10 @@ body {
   text-align: center;
   margin: 8px;
 }
+.IDs {
+  text-align: center;
+  margin-bottom: 30px;
+}
 .container {
   width: 90%;
   margin: auto;
@@ -22,6 +26,11 @@ body {
 }
 .Day {
   text-align: center;
+}
+.GitHub {
+  font-size: smaller;
+  float: right;
+  font-weight: bold;
 }
 h4 {
   margin-bottom: 5px;
