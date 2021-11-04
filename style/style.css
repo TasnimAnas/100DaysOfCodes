@@ -39,3 +39,8 @@ h4 {
 ol {
   margin-bottom: 10px;
 }
+
+li {
+  position: relative;
+  left: 16px;
+}
