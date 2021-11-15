@@ -44,3 +44,28 @@ li {
   position: relative;
   left: 16px;
 }
+
+#progress {
+  height: 15px;
+  width: 88%;
+  background-color: honeydew;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: xx-small;
+  text-align: right;
+  color: aliceblue;
+}
+#done {
+  background-color: green;
+  border-radius: 8px;
+  margin: auto;
+  height: 98%;
+  width: 19%;
+  float: left;
+  padding: 1.4px;
+  padding-right: 5px;
+}
