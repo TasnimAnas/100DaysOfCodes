@@ -4,7 +4,7 @@ public:
     void sortColors(vector<int> &nums)
     {
 
-        int ones = 0;
+        //int ones = 0;
         int zeroes = 0;
         int twos = 0;
         for (auto it : nums)
